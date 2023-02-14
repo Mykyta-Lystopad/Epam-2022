@@ -1,7 +1,0 @@
-1
-2
-3 DataBase
-4
-5 Jenkins
-6 Docker
-7
